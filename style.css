@@ -1,0 +1,89 @@
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    color: rgb(0, 68, 255);
+
+}
+
+h3 {
+    color: rgb(0, 68, 255);
+}
+
+p {
+    color: deeppink;
+    text-align: center;
+    background-color: black;
+}
+
+.title {
+    color: rgb(187, 0, 0);
+    text-align: right;
+    font-size: 70px;
+}
+
+body {
+    background-image: url("img/Tokimefull3583280.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+#teacher {
+    background-image: url("img/1-3.png");
+    font-size: 500px;
+    color: black;
+    text-align: center;
+}
+
+p.error {
+    color: rgb(255, 217, 0);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p.success {
+    color: rgb(82, 69, 0);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+div {
+    color: rgb(255, 255, 255);
+    width: 500px;
+    height: 500px;
+    background-image: url("img/__gundam_barbatos_and_gundam_barbatos_lupus_rex_gundam_and_1_more_drawn_by_serike_w__fdc09fe5b6fad05eb4ca67731cddde7b.jpg");
+}
+
+#box1 {
+    background-image: url("img/__gundam_barbatos_and_gundam_barbatos_lupus_rex_gundam_and_1_more_drawn_by_serike_w__fdc09fe5b6fad05eb4ca67731cddde7b.jpg");
+    float: left;
+    background-position: left bottom;
+}
+
+#box2 {
+    background-image: url("img/__gundam_barbatos_and_gundam_barbatos_lupus_rex_gundam_and_1_more_drawn_by_serike_w__fdc09fe5b6fad05eb4ca67731cddde7b.jpg");
+    float: left;
+    background-position: center bottom;
+}
+
+#box3 {
+    background-image: url("img/__gundam_barbatos_and_gundam_barbatos_lupus_rex_gundam_and_1_more_drawn_by_serike_w__fdc09fe5b6fad05eb4ca67731cddde7b.jpg");
+    float: left;
+    background-position: right bottom;
+}
+
+.nav {
+    background-image: url(img/281-2812399_gundam-universe-barbatos-review.jpg);
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 30;
+}
